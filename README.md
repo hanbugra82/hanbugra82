@@ -40,35 +40,36 @@
 
 ## 🛠 Technologies & Tools  
 
+## 🛠 Technologies & Tools  
+
 ### **🔹 Software Development**
 <p align="left">
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java">
-  <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin">
-  <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio">
-  <img src="https://img.shields.io/badge/-JavaFX-007396?style=for-the-badge&logo=java">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react">
-  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js">
-  <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb">
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javafx/javafx-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
 </p>
 
 ---
 
 ### **🔹 QA Testing & Automation**
 <p align="left">
-  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium">
-  <img src="https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=junit">
-  <img src="https://img.shields.io/badge/-Cucumber-23D96C?style=for-the-badge&logo=cucumber">
-  <img src="https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apache-maven">
-  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins">
-  <img src="https://img.shields.io/badge/-ExtentReports-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50" height="50"/> <!-- Maven için Apache ikonu -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="50" height="50"/>
 </p>
 
 
