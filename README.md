@@ -6,20 +6,20 @@ I am a full stack developer and a final-year Computer Science student at the Uni
 
 I have actively participated in TechPro bootcamps and Harvard CS50x, further strengthening my skills in software engineering, automation testing, and artificial intelligence.
 
-🎓 **Final Year Computer Science Student** @ University of Economics and Human Sciences in Warsaw  
-🌱 **Environmental Engineer** (Mersin University)  
-🌍 **International work experience** in engineering and technology  
-💡 **Software Development, Cybersecurity & QA Testing enthusiast**  
+🎓 Final Year Computer Science Student at University of Economics and Human Sciences in Warsaw  
+🌱 Environmental Engineer - Mersin University
+🌍 International work experience in engineering and technology  
+💡 Software Development, Cybersecurity & QA Testing enthusiast 
 
-💡 **My Interests & Expertise**:
+💡 My Interests & Expertise:
 
-- 🖥️ **Software Development**: Frontend & Backend (React, Node.js, Java, Flask, Kotlin, TypeScript)
-- 🛠️ **QA & Test Automation**: Selenium, JUnit, Cucumber, Jenkins, Extent Reports
-- ☁️ **DevOps & Cloud Technologies**: Docker, Linux, Git, Jira
-- 🤖 **Artificial Intelligence & Machine Learning**: Python, Data Science
-- 📱 **Mobile App Development**: Android (Java & Kotlin), React Native
-- 🎻 **Outside my academic and professional pursuits**, I am passionate about music and enjoy exploring new technologies in robotics and AI.
-- 📫 **Want to connect?** Feel free to check out my GitHub repositories and professional projects! 🚀
+- 🖥️ Software Development: Frontend & Backend (React, Node.js, Java, Flask, Kotlin, TypeScript)
+- 🛠️ QA & Test Automation: Selenium, JUnit, Cucumber, Jenkins, Extent Reports
+- ☁️ DevOps & Cloud Technologies: Docker, Linux, Git, Jira
+- 🤖 Artificial Intelligence & Machine Learning: Python, Data Science
+- 📱 Mobile App Development: Android (Java & Kotlin), React Native
+- 🎻 Outside my academic and professional pursuits, I am passionate about music and enjoy exploring new technologies in robotics and AI.
+- 📫 Want to connect? Feel free to check out my GitHub repositories and professional projects! 🚀
 
 ### Skills
 
