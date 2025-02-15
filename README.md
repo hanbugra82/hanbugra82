@@ -2,11 +2,7 @@
 
 ## Hi there<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30">
 
-
-Full Stack Developer
---------------------
-
-I am a final-year Computer Science student at the University of Economics and Human Sciences in Warsaw 🇵🇱, with a strong background in Software Development, QA Testing, and DevOps. Additionally, I hold a degree in Environmental Engineering and have expanded my expertise into AI, software testing, and full-stack development.
+I am a full stack developer and a final-year Computer Science student at the University of Economics and Human Sciences in Warsaw 🇵🇱, with a strong background in Software Development, QA Testing, and DevOps. Additionally, I hold a degree in Environmental Engineering and have expanded my expertise into AI, software testing, and full-stack development.
 
 I have actively participated in TechPro bootcamps and Harvard CS50x, further strengthening my skills in software engineering, automation testing, and artificial intelligence.
 
@@ -24,7 +20,6 @@ I have actively participated in TechPro bootcamps and Harvard CS50x, further str
 - 📱 **Mobile App Development**: Android (Java & Kotlin), React Native
 - 🎻 **Outside my academic and professional pursuits**, I am passionate about music and enjoy exploring new technologies in robotics and AI.
 - 📫 **Want to connect?** Feel free to check out my GitHub repositories and professional projects! 🚀
-
 
 ### Skills
 
