@@ -11,7 +11,8 @@
 - 🎧 Love listening to music while coding
 
 ## 🖥️ Terminal View
-```
+
+```bash
 $ echo "Welcome to my GitHub profile!"
 Welcome to my GitHub profile!
 
@@ -22,7 +23,6 @@ drwxr-xr-x   5 bugrahan  staff   160B Feb 10 14:15 ..
 -rw-r--r--   1 bugrahan  staff   4.5K Feb 10 14:18 README.md
 -rw-r--r--   1 bugrahan  staff   2.3K Feb 10 14:19 index.js
 drwxr-xr-x   3 bugrahan  staff    96B Feb 10 14:20 assets
-```
 ```
 
 ## 🔧 Technologies & Tools
