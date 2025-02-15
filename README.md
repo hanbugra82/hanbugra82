@@ -2,11 +2,11 @@
 
 ## Hi there<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30">
 
-I am a full stack developer and a final-year Computer Science student at the University of Economics and Human Sciences in Warsaw 🇵🇱, with a strong background in Software Development, QA Testing, and DevOps. Additionally, I hold a degree in Environmental Engineering and have expanded my expertise into AI, software testing, and full-stack development.
+I am a full stack developer with a strong background in Software Development, QA Testing, and DevOps. Additionally, I hold a degree in Environmental Engineering and have expanded my expertise into AI, software testing, and full-stack development.
 
 I have actively participated in TechPro bootcamps and Harvard CS50x, further strengthening my skills in software engineering, automation testing, and artificial intelligence.
 
-🎓 Final Year Computer Science Student at University of Economics and Human Sciences in Warsaw  
+🎓 Final Year Computer Science student at the University of Economics and Human Sciences in Warsaw 🇵🇱  
 🌱 Environmental Engineer - Mersin University
 🌍 International work experience in engineering and technology  
 💡 Software Development, Cybersecurity & QA Testing enthusiast 
@@ -32,11 +32,11 @@ I have actively participated in TechPro bootcamps and Harvard CS50x, further str
 <p align="left"> <a href="https://www.facebook.com/bugra.han.374" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/hanbugra82" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@cemakyol2395" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
 
-## 📜 Experience  
-- **EHSE Manager** @ Achar Energy (2013-2021)  
-- **Civil Engineer** @ Texno-Atinak Engineering Company (2011-2012)  
-- **Civil Engineer** @ Libya Atinak Engineering Company (2010-2011)  
-- **Site Manager** @ Celtikcioglu Group Companies (2009-2010)  
+📜 Experience  
+- *EHSE Manager* @ Achar Energy (2013-2021)  
+- *Civil Engineer* @ Texno-Atinak Engineering Company (2011-2012)  
+- *Civil Engineer* @ Libya Atinak Engineering Company (2010-2011)  
+- *Site Manager* @ Celtikcioglu Group Companies (2009-2010)  
 
 ## 🎯 Certifications & Bootcamps  
 ✅ **CompTIA Security+ Certified**  
