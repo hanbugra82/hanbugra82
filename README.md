@@ -60,8 +60,8 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/selenium/selenium-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/junit/junit-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cucumber/cucumber-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/apache/apache-original.svg" width="50" height="50"/> <!-- Maven için Apache ikonu -->
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cucumber/cucumber-plain.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/apache/apache-original.svg" width="50" height="50"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jenkins/jenkins-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/slack/slack-original.svg" width="50" height="50"/>
 </p>
