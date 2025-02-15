@@ -56,8 +56,6 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" width="50" height="50"/>
 </p>
 
----
-
 ### **🔹 QA Testing & Automation**
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/selenium/selenium-original.svg" width="50" height="50"/>
