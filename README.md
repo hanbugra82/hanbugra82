@@ -6,11 +6,20 @@
 Full Stack Developer
 --------------------
 
-I am a final-year Computer Science student at the University of Economics and Human Sciences in Warsaw 🇵🇱, with a strong background in Software Development, QA Testing, and DevOps. Additionally, I hold a degree in Environmental Engineering and have expanded my expertise into AI, software testing, and full-stack development. I have actively participated in TechPro bootcamps and Harvard CS50x, further strengthening my skills in software engineering, automation testing, and artificial intelligence. 💡 My Interests & Expertise: 🖥️ Software Development: Frontend & Backend (React, Node.js, Java, Flask, Kotlin, TypeScript) 🛠️ QA & Test Automation: Selenium, JUnit, Cucumber, Jenkins, Extent Reports ☁️ DevOps & Cloud Technologies: Docker, Linux, Git, Jira 🤖 Artificial Intelligence & Machine Learning: Python, Data Science 📱 Mobile App Development: Android (Java & Kotlin), React Native 🎻 Outside my academic and professional pursuits, I am passionate about music and enjoy exploring new technologies in robotics and AI. 📫 Want to connect? Feel free to check out my GitHub repositories and professional projects! 🚀
+I am a final-year Computer Science student at the University of Economics and Human Sciences in Warsaw 🇵🇱, with a strong background in Software Development, QA Testing, and DevOps. Additionally, I hold a degree in Environmental Engineering and have expanded my expertise into AI, software testing, and full-stack development.
 
-* ✉️  You can contact me at [hanbugra@yahoo.com](mailto:hanbugra@yahoo.com)
-* 🚀  I'm currently working on [noteAppv2](http://github.com/bugra-university/noteAppv2)
-* ⚡  I'm secretly Superman but don't tell anyone
+I have actively participated in TechPro bootcamps and Harvard CS50x, further strengthening my skills in software engineering, automation testing, and artificial intelligence.
+
+💡 My Interests & Expertise:
+
+🖥️ Software Development: Frontend & Backend (React, Node.js, Java, Flask, Kotlin, TypeScript)
+🛠️ QA & Test Automation: Selenium, JUnit, Cucumber, Jenkins, Extent Reports
+☁️ DevOps & Cloud Technologies: Docker, Linux, Git, Jira
+🤖 Artificial Intelligence & Machine Learning: Python, Data Science
+📱 Mobile App Development: Android (Java & Kotlin), React Native
+🎻 Outside my academic and professional pursuits, I am passionate about music and enjoy exploring new technologies in robotics and AI.
+
+📫 Want to connect? Feel free to check out my GitHub repositories and professional projects! 🚀
 
 ### Skills
 
