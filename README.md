@@ -40,7 +40,7 @@
 
 ## 🛠 Skill Set  
 
-### **Frontend**
+## **Frontend**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/html5/html5-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/css3/css3-original.svg" width="50" height="50"/>
@@ -50,9 +50,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/react/react-original.svg" width="50" height="50"/>
 </p>
 
----
-
-### **Backend**
+## **Backend**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/flask/flask-original.svg" width="50" height="50"/>
@@ -60,18 +58,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/kotlin/kotlin-original.svg" width="50" height="50"/>
 </p>
 
----
-
-### **Languages**
+## **Languages**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/c/c-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/python/python-original.svg" width="50" height="50"/>
 </p>
 
----
-
-### **Testing & DevOps**
+## **Testing & DevOps**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/selenium/selenium-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/junit/junit-original.svg" width="50" height="50"/>
@@ -81,9 +75,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Jira_Software_icon.svg" width="50" height="50"/> <!-- Jira -->
 </p>
 
----
-
-### **Others**
+## **Others**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/git/git-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/github/github-original.svg" width="50" height="50"/>
@@ -93,8 +85,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/slack/slack-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vscode/vscode-original.svg" width="50" height="50"/>
 </p>
-
-
 
 ## 📂 My Repositories  
 ### 🎓 University Projects  
