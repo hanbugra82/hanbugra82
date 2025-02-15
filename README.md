@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=2000&color=1E88E5&center=false&vCenter=false&width=500&lines=%24+whoami;Bu%C4%9Fra+Han)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=2000&color=1E88E5&center=false&vCenter=false&width=500&lines=%24+whoami;Bu%C4%9Fra+Han)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=2000&color=1E88E5&center=false&vCenter=false&width=500&lines=%24+Bu%C4%9Fra+Ha)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 - 🎓 Computer Science Student at Oxford
