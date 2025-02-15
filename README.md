@@ -56,6 +56,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/git/git-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/html5/html5-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50" height="50"/> <!-- Figma İkonu -->
 </p>
 
 ### **🔹 QA Testing & Automation**
@@ -66,9 +67,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/apache/apache-original.svg" width="50" height="50"/> <!-- Maven için Apache ikonu -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jenkins/jenkins-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/slack/slack-original.svg" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/JDBC_logo.svg/120px-JDBC_logo.svg.png" width="50" height="50"/> <!-- JDBC Alternatif İkon -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Software_Testing_Lifecycle.png/200px-Software_Testing_Lifecycle.png" width="50" height="50"/> <!-- STLC Alternatif İkon -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Jira_Software_icon.svg" width="50" height="50"/> <!-- Jira İkonu -->
 </p>
+
 
 ## 📂 My Repositories  
 ### 🎓 University Projects  
