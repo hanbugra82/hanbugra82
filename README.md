@@ -6,10 +6,10 @@ I am a full stack developer with a strong background in Software Development, QA
 
 I have actively participated in TechPro bootcamps and Harvard CS50x, further strengthening my skills in software engineering, automation testing, and artificial intelligence.
 
-🎓 Final Year Computer Science student at the University of Economics and Human Sciences in Warsaw 🇵🇱  
-🌱 Environmental Engineer @ Mersin University
-💡 Software Development, Cybersecurity & QA Testing enthusiast 
-🌍 International work experience in engineering and technology  
+🎓 Final Year Computer Science student at the University of Economics and Human Sciences in Warsaw 🇵🇱    
+🌱 Environmental Engineer @ Mersin University  
+💡 Software Development, Cybersecurity & QA Testing enthusiast   
+🌍 International work experience in engineering and technology    
 
 
 💡 My Interests & Expertise:
