@@ -12,21 +12,15 @@
 🌍 **International work experience** in engineering and technology  
 💡 **Software Development, Cybersecurity, DevOps & QA Testing enthusiast**  
 
----
-
 ## 📜 Experience  
 - **EHSE Manager** @ Achar Energy (2013-2021)  
 - **Civil Engineer** @ Texno-Atinak Engineering Company (2011-2012)  
 - **Civil Engineer** @ Libya Atinak Engineering Company (2010-2011)  
 - **Site Manager** @ Celtikcioglu Group Companies (2009-2010)  
 
----
-
 ## 🎓 Education  
 🎓 **University of Economics and Human Sciences in Warsaw** - Computer Science (Final Year)  
 🎓 **Mersin University** - Environmental Engineering (2003-2008)  
-
----
 
 ## 🎯 Certifications & Bootcamps  
 ✅ **CompTIA Security+ Certified**  
@@ -43,8 +37,6 @@
 
 ✅ **TechPro Education - Full Stack Mobile Development Bootcamp**  
 ✅ **Other Certifications**: AWS, Microsoft, Cisco, etc.  
-
----
 
 ## 🔧 Technologies & Tools  
 ### **🔹 Software Development**
@@ -75,8 +67,6 @@
 ![Extent Reports](https://img.shields.io/badge/-ExtentReports-000000?style=flat-square)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack)
 
----
-
 ## 📂 My Repositories  
 ### 🎓 University Projects  
 - **CalculatorJAVAFX**: JavaFX ile geliştirilmiş hesap makinesi. [Repo](https://github.com/bugra-university/calculatorJAVAFX)
@@ -87,8 +77,3 @@
 
 ### 🛠️ Bootcamp Projects  
 - **TechPro QA Test Engineer Project**: [Repo](https://github.com/bugra-bootcamps/bugra-techPro171)  
-
----
-
-
-Eğer başka bir ekleme yapmamı istersen, haber ver. 😊
