@@ -42,28 +42,28 @@
 
 ### **🔹 Software Development**
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/androidstudio/androidstudio-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flask/flask-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/java/java-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/kotlin/kotlin-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/androidstudio/androidstudio-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/flask/flask-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/react/react-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/sqlite/sqlite-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/docker/docker-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/linux/linux-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/git/git-original.svg" width="50" height="50"/>
 </p>
 
 ### **🔹 QA Testing & Automation**
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/selenium/selenium-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/junit/junit-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cucumber/cucumber-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apache/apache-original.svg" width="50" height="50"/> <!-- Maven için Apache ikonu -->
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jenkins/jenkins-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/slack/slack-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/selenium/selenium-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/junit/junit-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cucumber/cucumber-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/apache/apache-original.svg" width="50" height="50"/> <!-- Maven için Apache ikonu -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jenkins/jenkins-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/slack/slack-original.svg" width="50" height="50"/>
 </p>
 
 
