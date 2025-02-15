@@ -50,6 +50,10 @@ I have actively participated in TechPro bootcamps and Harvard CS50x, further str
   <a href="https://github.com/hanbugra82/hanbugra82/blob/main/CS50x.png">
     <img src="https://github.com/hanbugra82/hanbugra82/blob/main/cs50.png" width="145" alt="Harvard CS50">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/hanbugra82/hanbugra82/blob/main/istqb-foundation-level-_ctfl%201%20of%201.png">
+    <img src="https://github.com/hanbugra82/hanbugra82/blob/main/cs50.png" width="145" alt="Istqb">
+  </a>
 </p>
 
 ✅ **TechPro Education - Full Stack Mobile Development Bootcamp**  
