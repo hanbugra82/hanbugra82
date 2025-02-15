@@ -9,6 +9,11 @@ I am a final-year Computer Science student at the University of Economics and Hu
 
 I have actively participated in TechPro bootcamps and Harvard CS50x, further strengthening my skills in software engineering, automation testing, and artificial intelligence.
 
+🎓 **Final Year Computer Science Student** @ University of Economics and Human Sciences in Warsaw  
+🌱 **Environmental Engineer** (Mersin University)  
+🌍 **International work experience** in engineering and technology  
+💡 **Software Development, Cybersecurity & QA Testing enthusiast**  
+
 💡 **My Interests & Expertise**:
 
 - 🖥️ **Software Development**: Frontend & Backend (React, Node.js, Java, Flask, Kotlin, TypeScript)
@@ -21,7 +26,7 @@ I have actively participated in TechPro bootcamps and Harvard CS50x, further str
 
 
 ### Skills
-🛠 My Skills Set
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -47,22 +52,12 @@ I have actively participated in TechPro bootcamps and Harvard CS50x, further str
 
 <p align="left"> <a href="https://www.facebook.com/bugra.han.374" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/hanbugra82" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@cemakyol2395" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
-## 🚀 About Me  
-🎓 **Final Year Computer Science Student** @ University of Economics and Human Sciences in Warsaw  
-🌱 **Environmental Engineer** (Mersin University)  
-💼 **Former EHSE Manager at Achar Energy** (2013-2021)  
-🌍 **International work experience** in engineering and technology  
-💡 **Software Development, Cybersecurity, DevOps & QA Testing enthusiast**  
 
 ## 📜 Experience  
 - **EHSE Manager** @ Achar Energy (2013-2021)  
 - **Civil Engineer** @ Texno-Atinak Engineering Company (2011-2012)  
 - **Civil Engineer** @ Libya Atinak Engineering Company (2010-2011)  
 - **Site Manager** @ Celtikcioglu Group Companies (2009-2010)  
-
-## 🎓 Education  
-🎓 **University of Economics and Human Sciences in Warsaw** - Computer Science (Final Year)  
-🎓 **Mersin University** - Environmental Engineering (2003-2008)  
 
 ## 🎯 Certifications & Bootcamps  
 ✅ **CompTIA Security+ Certified**  
