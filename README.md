@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=2000&color=1E88E5&center=true&vCenter=true&width=500&lines=%24+whoami;%0ABu%C4%9Fra+Han)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=2000&color=1E88E5&center=true&vCenter=true&width=500&lines=%24+whoami;Buğra+Han)](https://git.io/typing-svg)
+
 
 # Hi, I'm Buğra Han 👋
 
