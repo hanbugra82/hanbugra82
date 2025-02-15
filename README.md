@@ -41,21 +41,22 @@
 ## 🛠 My Skills Set  
 
 <style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: none;
-}
-blockquote {
-    border-left: none;
-    padding-left: 10px;
-}
+  table#example-table td {
+    border: none;
+  }
 </style>
-| **Front End** | **Back End** | **Databases** | **DevOps** |
-|--------------|-------------|--------------|------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/react/react-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/java/java-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mongodb/mongodb-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/docker/docker-original.svg" width="50"/> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/bootstrap/bootstrap-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nodejs/nodejs-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/postgresql/postgresql-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/linux/linux-original.svg" width="50"/> |
+<table id="example-table">
+  <tbody>
+    <tr>
+      <td>Column One</td>
+      <td>Column One</td>
+    </tr>
+    <tr>
+      <td>Content of column one</td>
+      <td>Content of column two</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## 📂 My Repositories  
