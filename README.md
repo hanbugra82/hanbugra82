@@ -12,17 +12,11 @@ I have actively participated in TechPro bootcamps and Harvard CS50x, further str
 💡 My Interests & Expertise:
 
 🖥️ Software Development: Frontend & Backend (React, Node.js, Java, Flask, Kotlin, TypeScript)
-
 🛠️ QA & Test Automation: Selenium, JUnit, Cucumber, Jenkins, Extent Reports
-
 ☁️ DevOps & Cloud Technologies: Docker, Linux, Git, Jira
-
 🤖 Artificial Intelligence & Machine Learning: Python, Data Science
-
 📱 Mobile App Development: Android (Java & Kotlin), React Native
-
 🎻 Outside my academic and professional pursuits, I am passionate about music and enjoy exploring new technologies in robotics and AI.
-
 📫 Want to connect? Feel free to check out my GitHub repositories and professional projects! 🚀
 
 ### Skills
