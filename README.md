@@ -61,8 +61,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50" height="50"/> <!-- Figma İkonu -->
 </p>
 
----
-
 ### **🔹 QA Testing & Automation**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/selenium/selenium-original.svg" width="50" height="50"/>
@@ -73,8 +71,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/slack/slack-original.svg" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Jira_Software_icon.svg" width="50" height="50"/> <!-- Jira İkonu -->
 </p>
-
-
 
 ## 📂 My Repositories  
 ### 🎓 University Projects  
