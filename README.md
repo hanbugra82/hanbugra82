@@ -1,10 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=2000&color=1E88E5&center=false&vCenter=false&width=500&lines=%24+whoami;Buğra+Han)](https://git.io/typing-svg)
 
 
-<p align="center">
-  <img src="https://your-image-link.com" width="200" alt="Your Image">
-</p>
-
 ## 🚀 About Me
 - 🎓 Computer Science Student at Oxford
 - 📱 Mobile Developer (React Native & Android)
