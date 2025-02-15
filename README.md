@@ -40,8 +40,6 @@
 
 ## 🛠 My Skills Set  
 
-## 🛠 Technologies & Tools  
-
 ### **🔹 Software Development**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/java/java-original.svg" width="50" height="50"/>
