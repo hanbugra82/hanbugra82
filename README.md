@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=1500&pause=1000&color=1E88E5&width=500&height=100&lines=%24whoami%0ABu%C4%9Fra+Han)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=1000&color=1E88E5&multiline=true&width=435&height=100&lines=%24whoami;Bu%C4%9Fra+Han)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hanbugra82/hanbugra82/main/university-logo.png" width="300" alt="University of Economics and Human Sciences in Warsaw">
   <img src="https://raw.githubusercontent.com/hanbugra82/hanbugra82/main/securityplus-badge.png" width="200" alt="CompTIA Security+">
   <img src="https://cs50.harvard.edu/certificates/fc311192-c7b6-4a5b-9721-dd5d7db4ed2c/badge" width="200" alt="Harvard CS50x Badge">
 </p>
@@ -80,17 +79,16 @@
 
 ## 📂 My Repositories  
 ### 🎓 University Projects  
-- **FoodAndroid**: Android yemek tarifi uygulaması. [Repo](https://github.com/bugra-university/foodAndroid)  
+- **CalculatorJAVAFX**: JavaFX ile geliştirilmiş hesap makinesi. [Repo](https://github.com/bugra-university/calculatorJAVAFX)
+- **StarBank**: Bankacılık işlemleri simülasyonu. [Repo](https://github.com/bugra-university/starBank)
 - **MusicAndroid**: Müzik çalar uygulaması. [Repo](https://github.com/bugra-university/musicAndroid)  
-- **CalculatorAndroid**: Android hesap makinesi. [Repo](https://github.com/bugra-university/calculatorAndroid)  
-- **StarBank**: Bankacılık işlemleri simülasyonu. [Repo](https://github.com/bugra-university/starBank)  
-- **CalculatorJAVAFX**: JavaFX ile geliştirilmiş hesap makinesi. [Repo](https://github.com/bugra-university/calculatorJAVAFX)  
+- **CalculatorAndroid**: Android hesap makinesi. [Repo](https://github.com/bugra-university/calculatorAndroid)    
+- **FoodAndroid**: Android yemek tarifi uygulaması. [Repo](https://github.com/bugra-university/foodAndroid)  
 
 ### 🛠️ Bootcamp Projects  
 - **TechPro QA Test Engineer Project**: [Repo](https://github.com/bugra-bootcamps/bugra-techPro171)  
 
 ---
 
-🚀 **Bu eklemelerle profilin artık tüm yazılım geliştirme, test otomasyonu ve mobil geliştirme yetkinliklerini yansıtıyor!**  
 
 Eğer başka bir ekleme yapmamı istersen, haber ver. 😊
