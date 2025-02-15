@@ -54,19 +54,21 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/docker/docker-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/linux/linux-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/css3/css3-original.svg" width="50" height="50"/>
 </p>
 
 ### **🔹 QA Testing & Automation**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/selenium/selenium-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/junit/junit-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cucumber/cucumber-plain.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/apache/apache-original.svg" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cucumber/cucumber-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/apache/apache-original.svg" width="50" height="50"/> <!-- Maven için Apache ikonu -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jenkins/jenkins-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/slack/slack-original.svg" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/JDBC_logo.svg/120px-JDBC_logo.svg.png" width="50" height="50"/> <!-- JDBC Alternatif İkon -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Software_Testing_Lifecycle.png/200px-Software_Testing_Lifecycle.png" width="50" height="50"/> <!-- STLC Alternatif İkon -->
 </p>
-
-
 
 ## 📂 My Repositories  
 ### 🎓 University Projects  
