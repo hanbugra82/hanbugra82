@@ -8,8 +8,9 @@ I have actively participated in TechPro bootcamps and Harvard CS50x, further str
 
 🎓 Final Year Computer Science student at the University of Economics and Human Sciences in Warsaw 🇵🇱  
 🌱 Environmental Engineer - Mersin University
-🌍 International work experience in engineering and technology  
 💡 Software Development, Cybersecurity & QA Testing enthusiast 
+🌍 International work experience in engineering and technology  
+
 
 💡 My Interests & Expertise:
 
