@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hanbugra82/hanbugra82/main/securityplus-badge.png" width="200" alt="CompTIA Security+">
-  <img src="https://cs50.harvard.edu/certificates/fc311192-c7b6-4a5b-9721-dd5d7db4ed2c/badge" width="200" alt="Harvard CS50x Badge">
+  <img src="https://cs40.harvard.edu/certificates/fc311192-c7b6-4a5b-9721-dd5d7db4ed2c/badge" width="200" alt="Harvard CS40x Badge">
 </p>
 
 ## 🚀 About Me  
@@ -25,13 +25,13 @@
 ## 🎯 Certifications & Bootcamps  
 ✅ **CompTIA Security+ Certified**  
 <p>
-  <img src="https://raw.githubusercontent.com/hanbugra82/hanbugra82/main/securityplus-badge.png" width="150" alt="CompTIA Security+">
+  <img src="https://raw.githubusercontent.com/hanbugra82/hanbugra82/main/securityplus-badge.png" width="140" alt="CompTIA Security+">
 </p>
 
-✅ **Harvard CS50x - Computer Science for Programmers**  
+✅ **Harvard CS40x - Computer Science for Programmers**  
 <p>
-  <a href="https://cs50.harvard.edu/certificates/fc311192-c7b6-4a5b-9721-dd5d7db4ed2c">
-    <img src="https://cs50.harvard.edu/certificates/fc311192-c7b6-4a5b-9721-dd5d7db4ed2c/badge" width="150" alt="Harvard CS50x">
+  <a href="https://cs40.harvard.edu/certificates/fc311192-c7b6-4a5b-9721-dd5d7db4ed2c">
+    <img src="https://cs40.harvard.edu/certificates/fc311192-c7b6-4a5b-9721-dd5d7db4ed2c/badge" width="140" alt="Harvard CS40x">
   </a>
 </p>
 
@@ -42,32 +42,32 @@
 
 ### **🔹 Software Development**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/java/java-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/kotlin/kotlin-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/androidstudio/androidstudio-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/flask/flask-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/react/react-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/sqlite/sqlite-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/docker/docker-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/linux/linux-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/git/git-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/html5/html5-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/css3/css3-original.svg" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50" height="50"/> <!-- Figma İkonu -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/flask/flask-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40" height="40"/> <!-- Figma İkonu -->
 </p>
 
 ### **🔹 QA Testing & Automation**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/selenium/selenium-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/junit/junit-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cucumber/cucumber-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/apache/apache-original.svg" width="50" height="50"/> <!-- Maven için Apache ikonu -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jenkins/jenkins-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/slack/slack-original.svg" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Jira_Software_icon.svg" width="50" height="50"/> <!-- Jira İkonu -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/selenium/selenium-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/junit/junit-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cucumber/cucumber-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/apache/apache-original.svg" width="40" height="40"/> <!-- Maven için Apache ikonu -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/slack/slack-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Jira_Software_icon.svg" width="40" height="40"/> <!-- Jira İkonu -->
 </p>
 
 
