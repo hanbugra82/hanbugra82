@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Buğra Han 👋</h1>
 
-<!--
-**hanbugra82/hanbugra82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://your-image-link.com" width="200" alt="Your Image">
+</p>
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Computer Science Student at Oxford
+- 📱 Mobile Developer (React Native & Android)
+- 🌱 Learning iOS Development
+- 🎧 Love listening to music while coding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+
+## 📫 Contact Me
+- 🏡 [GitHub](https://github.com/hanbugra82)
+- ✉️ [Email](mailto:your-email@example.com)
+
