@@ -1,8 +1,7 @@
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1E88E5&width=435&lines=%24+whoami">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1E88E5&width=435&lines=Bu%C4%9Fra+Han">
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1E88E5&width=435&lines=%24+whoami&#10;Bu%C4%9Fra+Han" alt="Typing SVG" />
+</a>
+
 
 ## 🚀 About Me
 - 🎓 Computer Science Student at Oxford
