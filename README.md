@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1E88E5&width=435&lines=%24whoami;Bu%C4%9Fra+Han)](https://git.io/typing-svg)
+
+
 # Hi, I'm Buğra Han 👋
 
 <p align="center">
