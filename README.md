@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=1000&color=1E88E5&multiline=true&width=435&height=100&lines=%24whoami;Bu%C4%9Fra+Han)](https://git.io/typing-svg) 
-<img src="https://raw.githubusercontent.com/hanbugra82/hanbugra82/blob/main/SecurityPlus%20Logo%20Certified%20CE.pngsecurityplus.png" width="120" align="right">
+<img src="https://github.com/hanbugra82/hanbugra82/blob/main/SecurityPlus%20Logo%20Certified%20CE.png" width="120" align="right">
 
 ## Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30">
 
