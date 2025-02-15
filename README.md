@@ -41,42 +41,13 @@ I have actively participated in TechPro bootcamps and Harvard CS50x, further str
 - Civil Engineer at Atinak Engineering Company (2010-2011)  
 - Site Manager at Celtikcioglu Group Companies (2009-2010)  
 
+## 🎯 Certifications & Bootcamps  
 ✅ **CompTIA Security+ Certified**  
-<p>
-  <a href="https://raw.githubusercontent.com/hanbugra82/hanbugra82/main/securityplus-badge.png" target="_blank" class="cert-link">
-    <img src="https://raw.githubusercontent.com/hanbugra82/hanbugra82/main/securityplus-badge.png" width="145" alt="CompTIA Security+">
-  </a>
-</p>
+[![CompTIA Security+](https://raw.githubusercontent.com/hanbugra82/hanbugra82/main/securityplus-badge.png)](https://github.com/hanbugra82/hanbugra82/blob/main/CompTIA%20Security%2B%20ce%20certificate%201%20of%201.png) 🔗  
 
-✅ **Harvard CS45x - Computer Science for Programmers**  
-<p>
-  <a href="https://cs45.harvard.edu/certificates/fc311192-c7b6-4a5b-9721-dd5d7db4ed2c" class="cert-link">
-    <img src="https://cs45.harvard.edu/certificates/fc311192-c7b6-4a5b-9721-dd5d7db4ed2c/badge" width="145" alt="Harvard CS45x">
-  </a>
-</p>
+✅ **Harvard CS50 - Computer Science for Programmers**  
+[![Harvard CS50](https://github.com/hanbugra82/hanbugra82/blob/main/cs50.png)](https://github.com/hanbugra82/hanbugra82/blob/main/CS50x.png) 🔗  
 
-<style>
-  .cert-link {
-    display: inline-block;
-    position: relative;
-    text-decoration: none;
-  }
-
-  .cert-link::after {
-    content: " 🔗";
-    font-size: 16px;
-    opacity: 0;
-    position: absolute;
-    right: -20px;
-    top: 50%;
-    transform: translateY(-50%);
-    transition: opacity 0.3s ease-in-out;
-  }
-
-  .cert-link:hover::after {
-    opacity: 1;
-  }
-</style>
 
 
 ✅ **TechPro Education - Full Stack Mobile Development Bootcamp**  
