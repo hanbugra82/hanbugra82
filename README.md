@@ -56,7 +56,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/git/git-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/html5/html5-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/css3/css3-original.svg" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45"/> <!-- Figma İkonu -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45"/> 
 </p>
 
 ### **🔹 QA Testing & Automation**
@@ -67,7 +67,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/apache/apache-original.svg" width="45" height="45"/> <!-- Maven için Apache ikonu -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jenkins/jenkins-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/slack/slack-original.svg" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Jira_Software_icon.svg" width="45" height="45"/> <!-- Jira İkonu -->
+  <img src="https://icon-icons.com/icons2/2429/PNG/512/jira_logo_icon_147274.png" width="45" height="45"/> 
 </p>
 
 
