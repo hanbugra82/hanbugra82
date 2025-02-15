@@ -40,44 +40,24 @@
 
 ## 🛠 My Skills Set  
 
-## 🛠 My Skills Set  
-
-<table style="border-collapse: collapse; border: none;">
+<table border="0">
   <tr>
-    <th align="center">Front End</th>
-    <th align="center">Back End</th>
-    <th align="center">Databases</th>
-    <th align="center">DevOps</th>
+    <th>Front End</th>
+    <th>Back End</th>
+    <th>Databases</th>
+    <th>DevOps</th>
   </tr>
   <tr>
-    <td align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/react/react-original.svg" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/css3/css3-original.svg" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/javascript/javascript-original.svg" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/typescript/typescript-original.svg" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/html5/html5-original.svg" width="50" height="50"/>
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/java/java-original.svg" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/flask/flask-original.svg" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/python/python-original.svg" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/kotlin/kotlin-original.svg" width="50" height="50"/>
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mysql/mysql-original.svg" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/sqlite/sqlite-original.svg" width="50" height="50"/>
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/docker/docker-original.svg" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/linux/linux-original.svg" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/git/git-original.svg" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jenkins/jenkins-original.svg" width="50" height="50"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Jira_Software_icon.svg" width="50" height="50"/> <!-- Jira -->
-    </td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/react/react-original.svg" width="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/java/java-original.svg" width="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mongodb/mongodb-original.svg" width="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/docker/docker-original.svg" width="50"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/bootstrap/bootstrap-original.svg" width="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nodejs/nodejs-original.svg" width="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/postgresql/postgresql-original.svg" width="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/linux/linux-original.svg" width="50"/></td>
   </tr>
 </table>
 
