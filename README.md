@@ -40,32 +40,33 @@
 
 ## 🔧 Technologies & Tools  
 ### **🔹 Software Development**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![JavaFX](https://img.shields.io/badge/-JavaFX-007396?style=flat-square&logo=java)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000000?style=flat-square&logo=sqlalchemy)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+<p align="left">
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java">
+  <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin">
+  <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio">
+  <img src="https://img.shields.io/badge/-JavaFX-007396?style=flat-square&logo=java">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python">
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react">
+  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js">
+  <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb">
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git">
+</p>
 
 ### **🔹 QA Testing & Automation**
-![Selenium WebDriver](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium)
-![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit)
-![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=flat-square&logo=cucumber)
-![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins)
-![Extent Reports](https://img.shields.io/badge/-ExtentReports-000000?style=flat-square)
-![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack)
+<p align="left">
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium">
+  <img src="https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit">
+  <img src="https://img.shields.io/badge/-Cucumber-23D96C?style=flat-square&logo=cucumber">
+  <img src="https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven">
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins">
+  <img src="https://img.shields.io/badge/-ExtentReports-000000?style=flat-square">
+  <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack">
+</p>
 
 ## 📂 My Repositories  
 ### 🎓 University Projects  
