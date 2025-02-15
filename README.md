@@ -7,7 +7,7 @@ I am a full stack developer with a strong background in Software Development, QA
 I have actively participated in TechPro bootcamps and Harvard CS50x, further strengthening my skills in software engineering, automation testing, and artificial intelligence.
 
 🎓 Final Year Computer Science student at the University of Economics and Human Sciences in Warsaw 🇵🇱    
-🌱 Environmental Engineer @ Mersin University  
+🌱 Environmental Engineer - Mersin University  
 💡 Software Development, Cybersecurity & QA Testing enthusiast   
 🌍 International work experience in engineering and technology    
 
@@ -34,10 +34,10 @@ I have actively participated in TechPro bootcamps and Harvard CS50x, further str
 
 
 ## 📜 Experience  
-- EHSE Manager @ Achar Energy (2013-2021)  
-- Civil Engineer @ Texno-Atinak Engineering Company (2011-2012)  
-- Civil Engineer @ Libya Atinak Engineering Company (2010-2011)  
-- Site Manager @ Celtikcioglu Group Companies (2009-2010)  
+- Hydroelectric power plant - EHSE Manager at Achar Energy (2013-2021)  
+- Civil Engineer at Texno-Atinak Engineering Company (2011-2012)  
+- Civil Engineer at Atinak Engineering Company (2010-2011)  
+- Site Manager at Celtikcioglu Group Companies (2009-2010)  
 
 ## 🎯 Certifications & Bootcamps  
 ✅ **CompTIA Security+ Certified**  
