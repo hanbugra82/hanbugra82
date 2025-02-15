@@ -42,7 +42,7 @@ I have actively participated in TechPro bootcamps and Harvard CS50x, further str
 - Site Manager at Celtikcioglu Group Companies (2009-2010)  
 
 ## 🎯 Certifications & Bootcamps  
-<p align="center">
+<p>
   <a href="https://github.com/hanbugra82/hanbugra82/blob/main/CompTIA%20Security%2B%20ce%20certificate%201%20of%201.png">
     <img src="https://github.com/hanbugra82/hanbugra82/blob/main/SecurityPlus%20Logo%20Certified%20CE.png" width="145" alt="CompTIA Security+">
   </a>
@@ -51,10 +51,6 @@ I have actively participated in TechPro bootcamps and Harvard CS50x, further str
     <img src="https://github.com/hanbugra82/hanbugra82/blob/main/cs50.png" width="145" alt="Harvard CS50">
   </a>
 </p>
-
-
-
-
 
 ✅ **TechPro Education - Full Stack Mobile Development Bootcamp**  
 ✅ **Other Certifications**: AWS, Microsoft, Cisco, etc.  
