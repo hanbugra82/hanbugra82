@@ -52,7 +52,7 @@ I have actively participated in TechPro bootcamps and Harvard CS50x, further str
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/hanbugra82/hanbugra82/blob/main/istqb-foundation-level-_ctfl%201%20of%201.png">
-    <img src="https://github.com/hanbugra82/hanbugra82/blob/main/cs50.png" width="145" alt="Istqb">
+    <img src="https://github.com/hanbugra82/hanbugra82/blob/main/istqb-ctfl-4-logo.png" width="145" alt="Istqb">
   </a>
 </p>
 
