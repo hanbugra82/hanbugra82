@@ -12,19 +12,6 @@ I have actively participated in TechPro bootcamps and Harvard CS50x, further str
 💡 Software Development, Cybersecurity & QA Testing enthusiast  
 🌍 International work experience in engineering and technology  
 
-
-## Hi there<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30">
-
-I am a full stack developer with a strong background in Software Development, QA Testing, and DevOps. Additionally, I hold a degree in Environmental Engineering and have expanded my expertise into AI, software testing, and full-stack development.
-
-I have actively participated in TechPro bootcamps and Harvard CS50x, further strengthening my skills in software engineering, automation testing, and artificial intelligence.
-
-🎓 Final Year Computer Science student at the University of Economics and Human Sciences in Warsaw 🇵🇱    
-🌱 Environmental Engineer - Mersin University  
-💡 Software Development, Cybersecurity & QA Testing enthusiast   
-🌍 International work experience in engineering and technology    
-
-
 💡 My Interests & Expertise:
 
 - 🖥️ Software Development: Frontend & Backend (React, Node.js, Java, Flask, Kotlin, TypeScript)
