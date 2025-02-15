@@ -43,7 +43,7 @@ I have actively participated in TechPro bootcamps and Harvard CS50x, further str
 
 ## 🎯 Certifications & Bootcamps  
 ✅ **CompTIA Security+ Certified**  
-[![CompTIA Security+](https://raw.githubusercontent.com/hanbugra82/hanbugra82/main/securityplus-badge.png)](https://github.com/hanbugra82/hanbugra82/blob/main/CompTIA%20Security%2B%20ce%20certificate%201%20of%201.png) 🔗  
+[![CompTIA Security+](https://github.com/hanbugra82/hanbugra82/blob/main/SecurityPlus%20Logo%20Certified%20CE.png)](https://github.com/hanbugra82/hanbugra82/blob/main/CompTIA%20Security%2B%20ce%20certificate%201%20of%201.png) 🔗  
 
 ✅ **Harvard CS50 - Computer Science for Programmers**  
 [![Harvard CS50](https://github.com/hanbugra82/hanbugra82/blob/main/cs50.png)](https://github.com/hanbugra82/hanbugra82/blob/main/CS50x.png) 🔗  
