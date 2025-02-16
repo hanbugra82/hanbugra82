@@ -53,6 +53,30 @@ I have actively participated in TechPro bootcamps and Harvard CS50x, further str
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
+  <p align="left">
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="36" height="36" alt="Express.js" />
+  </a>
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Expo_Logo.svg" width="36" height="36" alt="Expo CLI" />
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width="36" height="36" alt="IntelliJ IDEA" />
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_Icon_2020.svg" width="36" height="36" alt="Android Studio" />
+  </a>
+  <a href="https://www.autodesk.com/products/autocad" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Autodesk_AutoCAD_logo.svg" width="36" height="36" alt="AutoCAD" />
+  </a>
+  <a href="https://gradle.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Gradle_logo.png" width="36" height="36" alt="Gradle" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/PWA_logo.svg" width="36" height="36" alt="PWA" />
+  </a>
+</p>
+
 </p>
 
 📜 Experience  
