@@ -24,7 +24,7 @@ I have actively participated in TechPro bootcamps and Harvard CS50x, further str
 - 🎻 Outside my academic and professional pursuits, I am passionate about music and enjoy exploring new technologies in robotics and AI.
 - 📫 Want to connect? Feel free to check out my GitHub repositories and professional projects! 🚀
 
-## Socials
+### Socials
 
 <hr>
 
