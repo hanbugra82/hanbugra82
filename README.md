@@ -42,26 +42,23 @@ I have actively participated in TechPro bootcamps and Harvard CS50x, further str
 - Site Manager at Celtikcioglu Group Companies (2009-2010)  
 
 ## 🎯 Certifications & Bootcamps  
-
-<p align="center">
+<p>
   <a href="https://github.com/hanbugra82/hanbugra82/blob/main/CompTIA%20Security%2B%20ce%20certificate%201%20of%201.png">
-    <img src="https://github.com/hanbugra82/hanbugra82/raw/main/SecurityPlus%20Logo%20Certified%20CE.png" width="145" alt="CompTIA Security+">
+    <img src="https://github.com/hanbugra82/hanbugra82/blob/main/SecurityPlus%20Logo%20Certified%20CE.png" width="145" alt="CompTIA Security+">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/hanbugra82/hanbugra82/blob/main/CS50x.png">
-    <img src="https://github.com/hanbugra82/hanbugra82/raw/main/cs50.png" width="145" alt="Harvard CS50">
+    <img src="https://github.com/hanbugra82/hanbugra82/blob/main/cs50.png" width="145" alt="Harvard CS50">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/hanbugra82/hanbugra82/blob/main/istqb-foundation-level-_ctfl%201%20of%201.png">
-    <img src="https://github.com/hanbugra82/hanbugra82/raw/main/istqb-ctfl-4-logo.png" width="145" alt="ISTQB">
+    <img src="https://github.com/hanbugra82/hanbugra82/blob/main/istqb-ctfl-4-logo.png" width="145" alt="Istqb">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#techpro-certificates">
-    <img src="https://github.com/hanbugra82/hanbugra82/raw/main/TechPro_Aacademy_logo_Black.png" width="145" alt="TechPro Academy">
+  <a href="https://github.com/hanbugra82/hanbugra82/blob/main/4808054200BH 1 of 2.png">
+    <img src="https://github.com/hanbugra82/hanbugra82/blob/main/TechPro_Aacademy_logo_Black.png" width="145" alt="Istqb">
   </a>
 </p>
-
-<a name="techpro-certificates"></a>
 
 ### 📜 TechPro Academy Sertifikaları
 
