@@ -56,7 +56,7 @@ I have actively participated in TechPro bootcamps and Harvard CS50x, further str
   </a>
   
   <a href="https://hanbugra82.github.io/hanbugra82/techpro_certificates.html" target="_blank">
-    <img src="https://github.com/hanbugra82/hanbugra82/raw/main/TechPro_Aacademy_logo_Black.png" width="100" alt="TechPro Academy">
+    <img src="https://github.com/hanbugra82/hanbugra82/raw/main/TechPro_Aacademy_logo_Black.png" high="100" alt="TechPro Academy">
   </a>
 </div>
 
