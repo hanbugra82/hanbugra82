@@ -56,10 +56,12 @@ I have actively participated in TechPro bootcamps and Harvard CS50x, further str
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/hanbugra82/hanbugra82/blob/main/4808054200BH 1 of 2.png">
+    <a href="https://github.com/hanbugra82/hanbugra82/blob/main/4808054200BH 2 of 2.png">
+      <a href="https://github.com/hanbugra82/hanbugra82/blob/main/5940757847BH 1 of 2.png">
+        <a href="https://github.com/hanbugra82/hanbugra82/blob/main/5940757847BH 2 of 2.png">
     <img src="https://github.com/hanbugra82/hanbugra82/blob/main/TechPro_Aacademy_logo_Black.png" width="145" alt="Istqb">
   </a>
 </p>
-
 ### 📜 TechPro Academy Sertifikaları
 
 <p align="center">
