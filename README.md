@@ -57,9 +57,10 @@ I have actively participated in TechPro bootcamps and Harvard CS50x, further str
     <img src="https://github.com/hanbugra82/hanbugra82/raw/main/istqb-ctfl-4-logo.png" width="145" alt="ISTQB">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://hanbugra82.github.io/techpro_certificates.html" target="https://github.com/hanbugra82/hanbugra82/blob/main/techpro_certificates.html">
+<a href="https://hanbugra82.github.io/techpro_certificates.html" target="_blank">
     <img src="https://github.com/hanbugra82/hanbugra82/raw/main/TechPro_Aacademy_logo_Black.png" width="145" alt="TechPro Academy">
-  </a>
+</a>
+
 </p>
 
 
