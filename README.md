@@ -10,7 +10,7 @@ I am a full stack developer with a strong background in Software Development, QA
 I have actively participated in TechPro bootcamps and Harvard CS50x, further strengthening my skills in software engineering, automation testing, and artificial intelligence.
 
 🎓 Final Year Computer Science student at the [University of Economics and Human Sciences in Warsaw 🇵🇱](https://vizja.pl/en/about-us/)   
-🌱 Environmental Engineer - [Mersin University](https://www.mersin.edu.tr/academic/faculty-of-engineering)  
+🌱 Environmental Engineer - [Mersin University](https://tanitim.mersin.edu.tr/)  
 💡 Software Development, Cybersecurity & QA Testing enthusiast  
 🌍 International work experience in engineering and technology  
 
