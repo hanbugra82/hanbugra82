@@ -56,12 +56,10 @@ I have actively participated in TechPro bootcamps and Harvard CS50x, further str
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/hanbugra82/hanbugra82/blob/main/4808054200BH 1 of 2.png">
+  <a href="https://github.com/hanbugra82/hanbugra82/blob/main/4808054200BH%202%20of%202.png">
     <img src="https://github.com/hanbugra82/hanbugra82/blob/main/TechPro_Aacademy_logo_Black.png" width="145" alt="Istqb">
 </a>
 
-<a href="https://github.com/hanbugra82/hanbugra82/blob/main/4808054200BH%202%20of%202.png">
-    <img src="https://github.com/hanbugra82/hanbugra82/blob/main/TechPro_Aacademy_logo_Black.png" width="145" alt="Another Image">
-</a>
 
 
 </p>
