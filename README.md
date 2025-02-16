@@ -55,9 +55,14 @@ I have actively participated in TechPro bootcamps and Harvard CS50x, further str
     <img src="https://github.com/hanbugra82/hanbugra82/blob/main/istqb-ctfl-4-logo.png" width="145" alt="Istqb">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/hanbugra82/hanbugra82/blob/main/4808054200BH 1 of 2.png">
+  <a href="https://github.com/hanbugra82/hanbugra82/blob/main/4808054200BH%201%20of%202.png">
     <img src="https://github.com/hanbugra82/hanbugra82/blob/main/TechPro_Aacademy_logo_Black.png" width="145" alt="Istqb">
-  </a>
+</a>
+<br> 
+<a href="https://github.com/hanbugra82/hanbugra82/blob/main/4808054200BH%202%20of%202.png">
+    <img src="https://github.com/hanbugra82/hanbugra82/blob/main/another-image.png" width="145" alt="Another Image">
+</a>
+
 </p>
 
 ✅ **TechPro Education - Full Stack Mobile Development Bootcamp**  
