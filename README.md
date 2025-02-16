@@ -47,11 +47,11 @@ I have actively participated in TechPro bootcamps and Harvard CS50x, further str
 
 ## 📂 My Repositories  
 ### 🎓 University Projects  
-- **CalculatorJAVAFX**: JavaFX ile geliştirilmiş hesap makinesi. [Repo](https://github.com/bugra-university/calculatorJAVAFX)
-- **StarBank**: Bankacılık işlemleri simülasyonu. [Repo](https://github.com/bugra-university/starBank)
-- **MusicAndroid**: Müzik çalar uygulaması. [Repo](https://github.com/bugra-university/musicAndroid)  
-- **CalculatorAndroid**: Android hesap makinesi. [Repo](https://github.com/bugra-university/calculatorAndroid)    
-- **FoodAndroid**: Android yemek tarifi uygulaması. [Repo](https://github.com/bugra-university/foodAndroid)  
+- **CalculatorJAVAFX**: A calculator developed using JavaFX. [Repo](https://github.com/bugra-university/calculatorJAVAFX)
+- **StarBank**: Banking transactions simulation. [Repo](https://github.com/bugra-university/starBank)
+- **MusicAndroid**: Music player application. [Repo](https://github.com/bugra-university/musicAndroid)  
+- **CalculatorAndroid**: Android calculator. [Repo](https://github.com/bugra-university/calculatorAndroid)    
+- **FoodAndroid**: Android recipe application. [Repo](https://github.com/bugra-university/foodAndroid)  
 
 ### 🛠️ Bootcamp Projects  
 - **TechPro QA Test Engineer Project**: [Repo](https://github.com/bugra-bootcamps/bugra-techPro171)  
