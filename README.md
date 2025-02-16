@@ -60,12 +60,6 @@ I have actively participated in TechPro bootcamps and Harvard CS50x, further str
   </a>
 </div>
 
-
-
-
-✅ **TechPro Education - Full Stack Mobile Development Bootcamp**  
-
-
 ## 📂 My Repositories  
 ### 🎓 University Projects  
 - **CalculatorJAVAFX**: JavaFX ile geliştirilmiş hesap makinesi. [Repo](https://github.com/bugra-university/calculatorJAVAFX)
