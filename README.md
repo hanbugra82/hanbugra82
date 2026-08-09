@@ -5,24 +5,28 @@
 
 ## Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30">
 
-I am a full stack developer with a strong background in Software Development, QA Testing, and DevOps. Additionally, I hold a degree in Environmental Engineering and have expanded my expertise into AI, software testing, and full-stack development.
+I am a dedicated Mobile Developer with a solid background in Computer Science, Full-Stack Engineering, and QA Automation.
 
-I have actively participated in TechPro bootcamps and Harvard CS50x, further strengthening my skills in software engineering, automation testing, and artificial intelligence.
+📱 Mobile Engineering Focus: Specialized in Cross-Platform Mobile Development (React Native for iOS & Android) during my CS degree.
+🎓 B.Sc. in Computer Science - [Vizja University](https://vizja.pl/en/) 🇵🇱
+🌱 B.Sc. in Environmental Engineering - [Mersin University Faculty of Engineering](https://www.mersin.edu.tr/akademik/muhendislik-fakultesi) 🇹🇷
+🌍 International background in engineering coordination, technical problem-solving, and technology.
 
-🎓 Final Year Computer Science student at the [University of Economics and Human Sciences in Warsaw 🇵🇱](https://vizja.pl/en/about-us/)   
-🌱 Environmental Engineer - [Mersin University](https://tanitim.mersin.edu.tr/)  
-💡 Software Development, Cybersecurity & QA Testing enthusiast  
-🌍 International work experience in engineering and technology  
+🏆 Certifications & Training:
+📜 Harvard CS50x - Computer Science Certification
+📜 ISTQB® Certified Tester - Foundation Level (CTFL)
+📜 CompTIA Security+ / Cyber Security Program
+📜 TechPro Education - Full-Stack Java & QA Automation Engineering
 
-💡 My Interests & Expertise:
+💡 Specialized Skill Set:
+📱 Mobile Development: React Native (iOS & Android), React, Redux, JavaScript, ES6+
+⚙️ Backend & Integration: Core & Advanced Java, Spring Boot, Hibernate ORM, RESTful APIs
+🛢️ Databases & Storage: PostgreSQL, SQL, MongoDB
+🛠️ Quality Assurance & Testing: ISTQB Standards, Mobile & Web Testing, Selenium WebDriver, JUnit, Cucumber, Postman
+☁️ DevOps & Tools: Git/GitHub, Docker, AWS, Linux, Figma
 
-- 🖥️ Software Development: Frontend & Backend (React, Node.js, Java, Flask, Kotlin, TypeScript)
-- 🛠️ QA & Test Automation: Selenium, JUnit, Cucumber, Jenkins, Extent Reports
-- ☁️ DevOps & Cloud Technologies: Docker, Linux, Git, Jira
-- 🤖 Artificial Intelligence & Machine Learning: Python, Data Science
-- 📱 Mobile App Development: Android (Java & Kotlin), React Native
-- 🎻 Outside my academic and professional pursuits, I am passionate about music and enjoy exploring new technologies in robotics and AI.
-- 📫 Want to connect? Feel free to check out my GitHub repositories and professional projects! 🚀   
+🎻 Outside of software engineering, I am passionate about music, robotics, and exploring new mobile UI/UX architectures.
+📫 Feel free to explore my GitHub repositories and connect for mobile & full-stack development projects! 🚀   
 
 ## Skills
 
