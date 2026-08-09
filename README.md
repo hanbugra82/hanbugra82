@@ -8,37 +8,24 @@
 I am a dedicated Mobile Developer with a solid background in Computer Science, Full-Stack Engineering, and QA Automation.
 
 📱 Mobile Engineering Focus: Specialized in Cross-Platform Mobile Development (React Native for iOS & Android) during my CS degree.
-
 🎓 B.Sc. in Computer Science - [Vizja University](https://vizja.pl/en/) 🇵🇱
-
 🌱 B.Sc. in Environmental Engineering - [Mersin University Faculty of Engineering](https://www.mersin.edu.tr/akademik/muhendislik-fakultesi) 🇹🇷
-
 🌍 International background in engineering coordination, technical problem-solving, and technology.
 
 🏆 Certifications & Training:
-
 📜 Harvard CS50x - Computer Science Certification
-
 📜 ISTQB® Certified Tester - Foundation Level (CTFL)
-
 📜 CompTIA Security+ / Cyber Security Program
-
 📜 TechPro Education - Full-Stack Java & QA Automation Engineering
 
 💡 Specialized Skill Set:
-
 📱 Mobile Development: React Native (iOS & Android), React, Redux, JavaScript, ES6+
-
 ⚙️ Backend & Integration: Core & Advanced Java, Spring Boot, Hibernate ORM, RESTful APIs
-
 🛢️ Databases & Storage: PostgreSQL, SQL, MongoDB
-
 🛠️ Quality Assurance & Testing: ISTQB Standards, Mobile & Web Testing, Selenium WebDriver, JUnit, Cucumber, Postman
-
 ☁️ DevOps & Tools: Git/GitHub, Docker, AWS, Linux, Figma
 
 🎻 Outside of software engineering, I am passionate about music, robotics, and exploring new mobile UI/UX architectures.
-
 📫 Feel free to explore my GitHub repositories and connect for mobile & full-stack development projects! 🚀   
 
 ## Skills
