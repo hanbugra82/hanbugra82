@@ -8,8 +8,11 @@
 I am a dedicated Mobile Developer with a solid background in Computer Science, Full-Stack Engineering, and QA Automation.
 
 📱 **Mobile Engineering Focus:** Specialized in Cross-Platform Mobile Development (React Native for iOS & Android) during my CS degree.
+
 🎓 **B.Sc. in Computer Science** - [Vizja University](https://vizja.pl/en/) 🇵🇱
+
 🌱 **B.Sc. in Environmental Engineering** - [Mersin University Faculty of Engineering](https://www.mersin.edu.tr/akademik/muhendislik-fakultesi) 🇹🇷
+
 🌍 International background in engineering coordination, technical problem-solving, and technology.
 
 💡 **Specialized Skill Set:**
