@@ -18,9 +18,13 @@ I am a dedicated Mobile Developer with a solid background in Computer Science, F
 💡 **Specialized Skill Set:**
 
 📱 **Mobile Development:** React Native (iOS & Android), React, Redux, JavaScript, ES6+
+
 ⚙️ **Backend & Integration:** Core & Advanced Java, Spring Boot, Hibernate ORM, RESTful APIs
+
 🛢️ **Databases & Storage:** PostgreSQL, SQL, MongoDB
+
 🛠️ **Quality Assurance & Testing:** ISTQB Standards, Mobile & Web Testing, Selenium WebDriver, JUnit, Cucumber, Postman
+
 ☁️ **DevOps & Tools:** Git/GitHub, Docker, AWS, Linux, Figma
 
 🎻 Outside of software engineering, I am passionate about music, robotics, and exploring new mobile UI/UX architectures.
