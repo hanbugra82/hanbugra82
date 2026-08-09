@@ -44,7 +44,7 @@ I have actively participated in TechPro bootcamps and Harvard CS50x, further str
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Core & Advanced Java" title="Core & Advanced Java"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot & MVC & Security" title="Spring Boot / MVC / Security"/>
-  <img src="https://user-images.githubusercontent.com/27801994/109392237-7f55b900-792f-11eb-8c6e-be9992f1b82d.png" width="40" height="40" alt="Hibernate ORM" title="Hibernate ORM"/>
+  <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" width="40" height="40" alt="Hibernate ORM" title="Hibernate ORM"/>
 </p>
 
 #### 🛢️ Databases
