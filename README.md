@@ -14,7 +14,7 @@ I am a dedicated Mobile Developer with a solid background in Computer Science, F
 💡 **Specialized Skill Set:**
 
 📱 **Mobile Development:** React Native (iOS & Android), React, Redux, JavaScript, ES6+<br>
-⚙️ **Backend & Integration:** Core & Advanced Java, Spring Boot, Hibernate ORM, RESTful APIs<br>
+⚙️ **Backend & Integration:** Advanced Java, Spring Boot, Hibernate ORM, RESTful APIs<br>
 🛢️ **Databases & Storage:** PostgreSQL, SQL, MongoDB<br>
 🛠️ **Quality Assurance & Testing:** ISTQB Standards, Mobile & Web Testing, Selenium WebDriver, JUnit, Cucumber, Postman<br>
 
