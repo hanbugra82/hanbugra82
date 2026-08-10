@@ -4,24 +4,24 @@
 
 ## Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30">
 
-I am a dedicated Mobile Developer with a solid background in Computer Science, Full-Stack Engineering, and QA Automation.
+I am a dedicated Mobile Developer with a solid background in Computer Science, Full-Stack Engineering, and QA Automation.<br>
 
-📱 **Mobile Engineering Focus:** Specialized in Cross-Platform Mobile Development (React Native for iOS & Android) during my CS degree.
-🎓 **B.Sc. in Computer Science** - [Vizja University](https://vizja.pl/en/) 🇵🇱
-🌱 **B.Sc. in Environmental Engineering** - [Mersin University Faculty of Engineering](https://www.mersin.edu.tr/akademik/muhendislik-fakultesi) 🇹🇷
-🌍 International background in engineering coordination, technical problem-solving, and technology.
+📱 **Mobile Engineering Focus:** Specialized in Cross-Platform Mobile Development (React Native for iOS & Android) during my CS degree.<br>
+🎓 **B.Sc. in Computer Science** - [Vizja University](https://vizja.pl/en/) 🇵🇱<br>
+🌱 **B.Sc. in Environmental Engineering** - [Mersin University Faculty of Engineering](https://www.mersin.edu.tr/akademik/muhendislik-fakultesi) 🇹🇷<br>
+🌍 International background in engineering coordination, technical problem-solving, and technology.<br>
 
 💡 **Specialized Skill Set:**
 
-📱 **Mobile Development:** React Native (iOS & Android), React, Redux, JavaScript, ES6+
-⚙️ **Backend & Integration:** Core & Advanced Java, Spring Boot, Hibernate ORM, RESTful APIs
-🛢️ **Databases & Storage:** PostgreSQL, SQL, MongoDB
-🛠️ **Quality Assurance & Testing:** ISTQB Standards, Mobile & Web Testing, Selenium WebDriver, JUnit, Cucumber, Postman
+📱 **Mobile Development:** React Native (iOS & Android), React, Redux, JavaScript, ES6+<br>
+⚙️ **Backend & Integration:** Core & Advanced Java, Spring Boot, Hibernate ORM, RESTful APIs<br>
+🛢️ **Databases & Storage:** PostgreSQL, SQL, MongoDB<br>
+🛠️ **Quality Assurance & Testing:** ISTQB Standards, Mobile & Web Testing, Selenium WebDriver, JUnit, Cucumber, Postman<br>
 
-☁️ **DevOps & Tools:** Git/GitHub, Docker, AWS, Linux, Figma
+☁️ **DevOps & Tools:** Git/GitHub, Docker, AWS, Linux, Figma<br>
 
-🎻 Outside of software engineering, I am passionate about music, robotics, and exploring new mobile UI/UX architectures.
-📫 Feel free to explore my GitHub repositories and connect for mobile & full-stack development projects! 🚀
+🎻 Outside of software engineering, I am passionate about music, robotics, and exploring new mobile UI/UX architectures.<br>
+📫 Feel free to explore my GitHub repositories and connect for mobile & full-stack development projects! 🚀<br>
 
 ## Skills
 
