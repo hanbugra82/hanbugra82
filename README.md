@@ -91,7 +91,7 @@ I am a dedicated Mobile Developer with a solid background in Computer Science, F
     </td>
     <td align="center" width="160">
       <a href="https://hanbugra82.github.io/hanbugra82/techpro_certificates.html" target="_blank">
-        <img src="https://github.com/hanbugra82/hanbugra82/raw/main/logo_tech_pro.png" height="45" alt="TechPro Academy">
+        <img src="https://github.com/hanbugra82/hanbugra82/raw/main/logo_tech_pro.png" height="80" alt="TechPro Academy">
       </a>
     </td>
   </tr>
