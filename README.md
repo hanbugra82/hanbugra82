@@ -75,7 +75,7 @@ I am a dedicated Mobile Developer with a solid background in Computer Science, F
   <a href="https://github.com/hanbugra82/hanbugra82/blob/main/CompTIA%20Security%2B%20ce%20certificate%201%20of%201.png" style="text-decoration: none;"><img src="https://github.com/hanbugra82/hanbugra82/raw/main/SecurityPlus%20Logo%20Certified%20CE.png" width="145" alt="CompTIA Security+"></a>
   <a href="https://github.com/hanbugra82/hanbugra82/blob/main/CS50x.png" style="text-decoration: none;"><img src="https://github.com/hanbugra82/hanbugra82/raw/main/cs50.png" width="145" alt="Harvard CS50"></a>
   <a href="https://github.com/hanbugra82/hanbugra82/blob/main/istqb-foundation-level-_ctfl%201%20of%201.png" style="text-decoration: none;"><img src="https://github.com/hanbugra82/hanbugra82/raw/main/istqb-ctfl-4-logo.png" width="145" alt="ISTQB"></a>
-  <a href="https://hanbugra82.github.io/hanbugra82/techpro_certificates.html" target="_blank" style="text-decoration: none;"><img src="https://github.com/hanbugra82/hanbugra82/raw/main/225971.png" width="115" alt="TechPro Academy"></a>
+  <a href="https://hanbugra82.github.io/hanbugra82/techpro_certificates.html" target="_blank" style="text-decoration: none;"><img src="https://github.com/hanbugra82/hanbugra82/raw/main/logo_tech_pro.png" width="115" alt="TechPro Academy"></a>
 </div>
 
 ## 📂 My Repositories  
