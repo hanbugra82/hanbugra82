@@ -70,13 +70,32 @@ I am a dedicated Mobile Developer with a solid background in Computer Science, F
 - Civil Engineer at Atinak Engineering Company (2010-2011)  
 - Site Manager at Celtikcioglu Group Companies (2009-2010)  
 
-## 🎯 Certifications & Bootcamps  
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://github.com/hanbugra82/hanbugra82/blob/main/CompTIA%20Security%2B%20ce%20certificate%201%20of%201.png" style="text-decoration: none;"><img src="https://github.com/hanbugra82/hanbugra82/raw/main/SecurityPlus%20Logo%20Certified%20CE.png" width="145" alt="CompTIA Security+"></a>
-  <a href="https://github.com/hanbugra82/hanbugra82/blob/main/CS50x.png" style="text-decoration: none;"><img src="https://github.com/hanbugra82/hanbugra82/raw/main/cs50.png" width="145" alt="Harvard CS50"></a>
-  <a href="https://github.com/hanbugra82/hanbugra82/blob/main/istqb-foundation-level-_ctfl%201%20of%201.png" style="text-decoration: none;"><img src="https://github.com/hanbugra82/hanbugra82/raw/main/istqb-ctfl-4-logo.png" width="145" alt="ISTQB"></a>
-  <a href="https://hanbugra82.github.io/hanbugra82/techpro_certificates.html" target="_blank" style="text-decoration: none;"><img src="https://github.com/hanbugra82/hanbugra82/raw/main/logo_tech_pro.png" width="115" alt="TechPro Academy"></a>
-</div>
+## 🎯 Certifications & Bootcamps
+
+<table border="0" align="center">
+  <tr valign="middle">
+    <td align="center" width="160">
+      <a href="https://github.com/hanbugra82/hanbugra82/blob/main/CompTIA%20Security%2B%20ce%20certificate%201%20of%201.png">
+        <img src="https://github.com/hanbugra82/hanbugra82/raw/main/SecurityPlus%20Logo%20Certified%20CE.png" height="80" alt="CompTIA Security+">
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/hanbugra82/hanbugra82/blob/main/CS50x.png">
+        <img src="https://github.com/hanbugra82/hanbugra82/raw/main/cs50.png" height="80" alt="Harvard CS50">
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/hanbugra82/hanbugra82/blob/main/istqb-foundation-level-_ctfl%201%20of%201.png">
+        <img src="https://github.com/hanbugra82/hanbugra82/raw/main/istqb-ctfl-4-logo.png" height="80" alt="ISTQB">
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://hanbugra82.github.io/hanbugra82/techpro_certificates.html" target="_blank">
+        <img src="https://github.com/hanbugra82/hanbugra82/raw/main/logo_tech_pro.png" height="45" alt="TechPro Academy">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 📂 My Repositories  
 ### 🎓 University Projects  
