@@ -73,7 +73,7 @@ I am a dedicated Mobile Developer with a solid background in Computer Science, F
 ## 🎯 Certifications & Bootcamps
 
 <table border="0" align="center">
-  <tr valign="middle">
+  <tr valign="left">
     <td align="center" width="160">
       <a href="https://github.com/hanbugra82/hanbugra82/blob/main/CompTIA%20Security%2B%20ce%20certificate%201%20of%201.png">
         <img src="https://github.com/hanbugra82/hanbugra82/raw/main/SecurityPlus%20Logo%20Certified%20CE.png" height="80" alt="CompTIA Security+">
@@ -91,7 +91,7 @@ I am a dedicated Mobile Developer with a solid background in Computer Science, F
     </td>
     <td align="center" width="160">
       <a href="https://hanbugra82.github.io/hanbugra82/techpro_certificates.html" target="_blank">
-        <img src="https://github.com/hanbugra82/hanbugra82/raw/main/logo_tech_pro.png" height="80" alt="TechPro Academy">
+        <img src="https://github.com/hanbugra82/hanbugra82/raw/main/logo_tech_pro.png" height="80" alt="TechPro">
       </a>
     </td>
   </tr>
