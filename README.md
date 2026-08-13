@@ -73,29 +73,31 @@ I am a dedicated Mobile Developer with a solid background in Computer Science, F
 ## 🎯 Certifications & Bootcamps
 
 <table border="0" align="left">
-  <tr valign="middle">
-    <td align="center" width="160">
+  <tr valign="middle" height="100">
+    <td align="center" width="150" valign="middle">
       <a href="https://github.com/hanbugra82/hanbugra82/blob/main/CompTIA%20Security%2B%20ce%20certificate%201%20of%201.png">
-        <img src="https://github.com/hanbugra82/hanbugra82/raw/main/SecurityPlus%20Logo%20Certified%20CE.png" height="80" alt="CompTIA Security+">
+        <img src="https://github.com/hanbugra82/hanbugra82/raw/main/SecurityPlus%20Logo%20Certified%20CE.png" height="75" alt="CompTIA Security+">
       </a>
     </td>
-    <td align="center" width="160">
+    <td align="center" width="150" valign="middle">
       <a href="https://github.com/hanbugra82/hanbugra82/blob/main/CS50x.png">
-        <img src="https://github.com/hanbugra82/hanbugra82/raw/main/cs50.png" height="80" alt="Harvard CS50">
+        <img src="https://github.com/hanbugra82/hanbugra82/raw/main/cs50.png" height="75" alt="Harvard CS50">
       </a>
     </td>
-    <td align="center" width="160">
+    <td align="center" width="150" valign="middle">
       <a href="https://github.com/hanbugra82/hanbugra82/blob/main/istqb-foundation-level-_ctfl%201%20of%201.png">
-        <img src="https://github.com/hanbugra82/hanbugra82/raw/main/istqb-ctfl-4-logo.png" height="80" alt="ISTQB">
+        <img src="https://github.com/hanbugra82/hanbugra82/raw/main/istqb-ctfl-4-logo.png" height="75" alt="ISTQB">
       </a>
     </td>
-    <td align="center" width="160">
+    <td align="center" width="150" valign="middle">
       <a href="https://hanbugra82.github.io/hanbugra82/techpro_certificates.html" target="_blank">
-        <img src="https://github.com/hanbugra82/hanbugra82/raw/main/logo_tech_pro.png" height="80" alt="TechPro">
+        <img src="https://github.com/hanbugra82/hanbugra82/raw/main/logo_tech_pro.png" height="40" alt="TechPro">
       </a>
     </td>
   </tr>
 </table>
+
+<br clear="all">
 
 ## 📂 My Repositories  
 ### 🎓 University Projects  
