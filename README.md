@@ -72,7 +72,7 @@ I am a dedicated Mobile Developer with a solid background in Computer Science, F
 
 ## 🎯 Certifications & Bootcamps
 
-<table border="0" align="center">
+<table border="0" align="left">
   <tr valign="middle">
     <td align="center" width="160">
       <a href="https://github.com/hanbugra82/hanbugra82/blob/main/CompTIA%20Security%2B%20ce%20certificate%201%20of%201.png">
