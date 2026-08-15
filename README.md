@@ -101,11 +101,9 @@ I am a dedicated Mobile Developer with a solid background in Computer Science, F
 
 ## 📂 My Repositories  
 ### 🎓 University Projects  
+- **Test Automation Platform**: Full-stack test automation platform developed as a graduation thesis. [Repo](https://github.com/bugra-university/test-automation-platform.git)
+- **Personal Note-Taking App**: Personel not taking application using React Native and Expo. [Repo](https://github.com/bugra-university/noteApp.git)
 - **CalculatorJAVAFX**: A calculator developed using JavaFX. [Repo](https://github.com/bugra-university/calculatorJAVAFX)
-- **StarBank**: Banking transactions simulation. [Repo](https://github.com/bugra-university/starBank)
-- **MusicAndroid**: Music player application. [Repo](https://github.com/bugra-university/musicAndroid)  
-- **CalculatorAndroid**: Android calculator. [Repo](https://github.com/bugra-university/calculatorAndroid)    
-- **FoodAndroid**: Android recipe application. [Repo](https://github.com/bugra-university/foodAndroid)  
 
 ### 🛠️ Bootcamp Projects  
 - **TechPro QA Test Engineer Project**: [Repo](https://github.com/bugra-bootcamps/bugra-techPro171)  
