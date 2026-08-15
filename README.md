@@ -103,7 +103,7 @@ I am a dedicated Mobile Developer with a solid background in Computer Science, F
 ### 🎓 University Projects  
 - **Test Automation Platform**: Full-stack test automation platform developed as a graduation thesis. [Repo](https://github.com/bugra-university/test-automation-platform.git)
 - **Personal Note-Taking App**: Personel not taking application using React Native and Expo. [Repo](https://github.com/bugra-university/noteApp.git)
-- **CalculatorJAVAFX**: A calculator developed using JavaFX. [Repo](https://github.com/bugra-university/calculatorJAVAFX)
+- **RPN Calculator**: A RPN calculator developed using JavaFX. [Repo](https://github.com/bugra-university/calculatorJAVAFX)
 
 ### 🛠️ Bootcamp Projects  
 - **QA Test Engineer Project**: [Repo](https://github.com/bugra-bootcamps/bugra-techPro171)  
