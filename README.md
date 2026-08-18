@@ -66,8 +66,8 @@ I am a dedicated Mobile Developer with a solid background in Computer Science, F
 
 📜 Experience  
 - Hydroelectric power plant - EHSE Manager at Achar Energy (2013-2021)  
-- Civil Engineer at Texno-Atinak Engineering Company (2011-2012)  
-- Civil Engineer at Atinak Engineering Company (2010-2011)  
+- Field Engineer at Texno-Atinak Engineering Company (2011-2012)  
+- Field Engineer at Atinak Engineering Company (2010-2011)  
 - Site Manager at Celtikcioglu Group Companies (2009-2010)  
 
 ## 🎯 Certifications & Bootcamps
