@@ -101,8 +101,6 @@ I am a dedicated Mobile Developer with a solid background in Computer Science, F
 
 ## 📂 Featured Projects
 
-### 🎓 University Projects
-
 ### [Test Automation Platform](https://github.com/bugra-university/test-automation-platform.git)
 A full-stack test automation management platform developed as a graduation thesis. The platform provides centralized test case design, execution scheduling, and detailed reporting metrics.
 
@@ -138,25 +136,6 @@ A cross-platform mobile note-taking application designed for offline-first produ
 
 ---
 
-### [RPN Calculator](https://github.com/bugra-university/calculatorJAVAFX)
-A desktop application built as a Reverse Polish Notation (RPN) calculator implementing a postfix evaluation stack for complex mathematical workflows.
-
-* **Stack Engine:** Evaluates postfix expressions using strict stack-based operand management.
-* **GUI Module:** Provides an interactive JavaFX user interface mimicking classic scientific calculators.
-
-• Java • JavaFX • Object-Oriented Programming (OOP) • Data Structures (Stack) • Maven
-
-<details>
-<summary>Details of the project</summary>
-
-- Implemented syntax error handling for division by zero and unbalanced operands.
-- Clean separation of UI views (FXML/CSS) and underlying algebraic calculation services.
-</details>
-
----
-
-### 🛠️ Bootcamp Projects
-
 ### [QA Automation Testing Framework](https://github.com/bugra-bootcamps/bugra-techPro171)
 An enterprise-grade test automation suite built to validate end-to-end user journeys, REST API endpoints, and database consistency.
 
@@ -170,6 +149,23 @@ An enterprise-grade test automation suite built to validate end-to-end user jour
 
 - Data-driven and behavioral-driven testing (BDD) with Gherkin feature files.
 - Automated generation of HTML execution reports and screenshot capturing on failure.
+</details>
+
+---
+
+### [Hibernate Hotel Management System](https://github.com/hanbugra82/TechPro-Hibernate-Hotel-Management-System)
+An Object-Relational Mapping (ORM) showcase project managing hotel reservations, rooms, and guest accounts through complex JPA/Hibernate entity mappings.
+
+* **Entity Mapping:** Configured One-to-One, One-to-Many, and Many-to-Many relationships with cascading operations.
+* **HQL Querying:** Custom queries for availability checks, room status, and occupancy tracking.
+
+• Java • Hibernate ORM • JPA • PostgreSQL • HQL • Session Management
+
+<details>
+<summary>Details of the project</summary>
+
+- Optimized lazy/eager fetching strategies to prevent N+1 query problems.
+- Automated schema generation and mapping validation using Hibernate XML/Annotation configurations.
 </details>
 
 ---
@@ -191,17 +187,17 @@ A console-based architectural management system handling student academic record
 
 ---
 
-### [Hibernate Hotel Management System](https://github.com/hanbugra82/TechPro-Hibernate-Hotel-Management-System)
-An Object-Relational Mapping (ORM) showcase project managing hotel reservations, rooms, and guest accounts through complex JPA/Hibernate entity mappings.
+### [RPN Calculator](https://github.com/bugra-university/calculatorJAVAFX)
+A desktop application built as a Reverse Polish Notation (RPN) calculator implementing a postfix evaluation stack for complex mathematical workflows.
 
-* **Entity Mapping:** Configured One-to-One, One-to-Many, and Many-to-Many relationships with cascading operations.
-* **HQL Querying:** Custom queries for availability checks, room status, and occupancy tracking.
+* **Stack Engine:** Evaluates postfix expressions using strict stack-based operand management.
+* **GUI Module:** Provides an interactive JavaFX user interface mimicking classic scientific calculators.
 
-• Java • Hibernate ORM • JPA • PostgreSQL • HQL • Session Management
+• Java • JavaFX • Object-Oriented Programming (OOP) • Data Structures (Stack) • Maven
 
 <details>
 <summary>Details of the project</summary>
 
-- Optimized lazy/eager fetching strategies to prevent N+1 query problems.
-- Automated schema generation and mapping validation using Hibernate XML/Annotation configurations.
+- Implemented syntax error handling for division by zero and unbalanced operands.
+- Clean separation of UI views (FXML/CSS) and underlying algebraic calculation services.
 </details>
