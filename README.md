@@ -99,13 +99,109 @@ I am a dedicated Mobile Developer with a solid background in Computer Science, F
 
 <br clear="all">
 
-## 📂 My Repositories  
-### 🎓 University Projects  
-- **Test Automation Platform**: Full-stack test automation platform developed as a graduation thesis. [Repo](https://github.com/bugra-university/test-automation-platform.git)
-- **Personal Note-Taking App**: Personel not taking application using React Native and Expo. [Repo](https://github.com/bugra-university/noteApp.git)
-- **RPN Calculator**: A RPN calculator developed using JavaFX. [Repo](https://github.com/bugra-university/calculatorJAVAFX)
+## 📂 Featured Projects
 
-### 🛠️ Bootcamp Projects  
-- **QA Test Engineer Project**: [Repo](https://github.com/bugra-bootcamps/bugra-techPro171)  
-- **JDBC Student Management System**: [Repo](https://github.com/hanbugra82/TechPro-JDBC-Student-Management-System)
-- **Hibernate Hotel Management System**: [Repo](https://github.com/hanbugra82/TechPro-Hibernate-Hotel-Management-System)
+### 🎓 University Projects
+
+### [Test Automation Platform](https://github.com/bugra-university/test-automation-platform.git)
+A full-stack test automation management platform developed as a graduation thesis. The platform provides centralized test case design, execution scheduling, and detailed reporting metrics.
+
+* **Core Engine:** Orchestrates automated test suites and integrates execution logs in real time.
+* **Reporting Module:** Delivers comprehensive visual test run summaries, defect metrics, and coverage analytics.
+
+• Java 17 • Spring Boot • React • PostgreSQL • Selenium WebDriver • JUnit 5 • Docker • RESTful API
+
+<details>
+<summary>Details of the project</summary>
+
+- Automated end-to-end regression workflows with custom reporting.
+- Containerized environment setup using Docker for reproducible test runner pipelines.
+- Multi-browser cross-testing support with decoupled configuration layers.
+</details>
+
+---
+
+### [Personal Note-Taking App](https://github.com/bugra-university/noteApp.git)
+A cross-platform mobile note-taking application designed for offline-first productivity, quick formatting, and categorized document storage.
+
+* **Note Engine:** Supports rich-text notes, tag-based categorization, and fast search filtering.
+* **Storage Layer:** Handles local persistence with fast synchronization capabilities.
+
+• React Native • Expo • JavaScript (ES6+) • Redux • AsyncStorage • Mobile UI/UX
+
+<details>
+<summary>Details of the project</summary>
+
+- Responsive layouts tested across various iOS and Android screen resolutions.
+- Efficient state management with Redux for fluid tagging, search, and editing.
+</details>
+
+---
+
+### [RPN Calculator](https://github.com/bugra-university/calculatorJAVAFX)
+A desktop application built as a Reverse Polish Notation (RPN) calculator implementing a postfix evaluation stack for complex mathematical workflows.
+
+* **Stack Engine:** Evaluates postfix expressions using strict stack-based operand management.
+* **GUI Module:** Provides an interactive JavaFX user interface mimicking classic scientific calculators.
+
+• Java • JavaFX • Object-Oriented Programming (OOP) • Data Structures (Stack) • Maven
+
+<details>
+<summary>Details of the project</summary>
+
+- Implemented syntax error handling for division by zero and unbalanced operands.
+- Clean separation of UI views (FXML/CSS) and underlying algebraic calculation services.
+</details>
+
+---
+
+### 🛠️ Bootcamp Projects
+
+### [QA Automation Testing Framework](https://github.com/bugra-bootcamps/bugra-techPro171)
+An enterprise-grade test automation suite built to validate end-to-end user journeys, REST API endpoints, and database consistency.
+
+* **Web UI Automation:** Implements Page Object Model (POM) for clean, maintainable UI scripts.
+* **API & DB Verification:** Automated REST endpoint validations combined with direct JDBC data checks.
+
+• Java • Selenium WebDriver • Cucumber (BDD) • JUnit • TestNG • RestAssured • JDBC • Maven
+
+<details>
+<summary>Details of the project</summary>
+
+- Data-driven and behavioral-driven testing (BDD) with Gherkin feature files.
+- Automated generation of HTML execution reports and screenshot capturing on failure.
+</details>
+
+---
+
+### [JDBC Student Management System](https://github.com/hanbugra82/TechPro-JDBC-Student-Management-System)
+A console-based architectural management system handling student academic records through direct low-level database operations.
+
+* **Data Access Layer:** Direct SQL execution and transaction handling using raw JDBC drivers.
+* **Validation Layer:** Enforces input sanitation and uniqueness constraints before persistence.
+
+• Java • JDBC • PostgreSQL • SQL • Clean Architecture
+
+<details>
+<summary>Details of the project</summary>
+
+- Full CRUD lifecycle management for student profiles and course enrollments.
+- PreparedStatements to prevent SQL injection vulnerabilities and manage database connection pooling.
+</details>
+
+---
+
+### [Hibernate Hotel Management System](https://github.com/hanbugra82/TechPro-Hibernate-Hotel-Management-System)
+An Object-Relational Mapping (ORM) showcase project managing hotel reservations, rooms, and guest accounts through complex JPA/Hibernate entity mappings.
+
+* **Entity Mapping:** Configured One-to-One, One-to-Many, and Many-to-Many relationships with cascading operations.
+* **HQL Querying:** Custom queries for availability checks, room status, and occupancy tracking.
+
+• Java • Hibernate ORM • JPA • PostgreSQL • HQL • Session Management
+
+<details>
+<summary>Details of the project</summary>
+
+- Optimized lazy/eager fetching strategies to prevent N+1 query problems.
+- Automated schema generation and mapping validation using Hibernate XML/Annotation configurations.
+</details>
