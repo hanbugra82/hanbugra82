@@ -111,6 +111,7 @@ A full-stack test automation management platform developed as a graduation thesi
 
 <details>
 <summary>Details of the project</summary>
+<br>
 
 - Automated end-to-end regression workflows with custom reporting.
 - Containerized environment setup using Docker for reproducible test runner pipelines.
@@ -129,6 +130,7 @@ A cross-platform mobile note-taking application designed for offline-first produ
 
 <details>
 <summary>Details of the project</summary>
+<br>
 
 - Responsive layouts tested across various iOS and Android screen resolutions.
 - Efficient state management with Redux for fluid tagging, search, and editing.
@@ -146,6 +148,7 @@ An enterprise-grade test automation suite built to validate end-to-end user jour
 
 <details>
 <summary>Details of the project</summary>
+<br>
 
 - Data-driven and behavioral-driven testing (BDD) with Gherkin feature files.
 - Automated generation of HTML execution reports and screenshot capturing on failure.
@@ -163,6 +166,7 @@ An Object-Relational Mapping (ORM) showcase project managing hotel reservations,
 
 <details>
 <summary>Details of the project</summary>
+<br>
 
 - Optimized lazy/eager fetching strategies to prevent N+1 query problems.
 - Automated schema generation and mapping validation using Hibernate XML/Annotation configurations.
@@ -180,6 +184,7 @@ A console-based architectural management system handling student academic record
 
 <details>
 <summary>Details of the project</summary>
+<br>
 
 - Full CRUD lifecycle management for student profiles and course enrollments.
 - PreparedStatements to prevent SQL injection vulnerabilities and manage database connection pooling.
@@ -197,6 +202,7 @@ A desktop application built as a Reverse Polish Notation (RPN) calculator implem
 
 <details>
 <summary>Details of the project</summary>
+<br>
 
 - Implemented syntax error handling for division by zero and unbalanced operands.
 - Clean separation of UI views (FXML/CSS) and underlying algebraic calculation services.
