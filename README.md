@@ -116,6 +116,7 @@ A full-stack test automation management platform developed as a graduation thesi
 - Automated end-to-end regression workflows with custom reporting.
 - Containerized environment setup using Docker for reproducible test runner pipelines.
 - Multi-browser cross-testing support with decoupled configuration layers.
+
 </details>
 
 ---
@@ -134,6 +135,7 @@ A cross-platform mobile note-taking application designed for offline-first produ
 
 - Responsive layouts tested across various iOS and Android screen resolutions.
 - Efficient state management with Redux for fluid tagging, search, and editing.
+
 </details>
 
 ---
@@ -150,14 +152,15 @@ An enterprise-grade test automation suite built to validate end-to-end user jour
 <summary>Details of the project</summary>
 <br>
 
-- Data-driven and behavioral-driven testing (BDD) with Gherkin feature files.
-- Automated generation of HTML execution reports and screenshot capturing on failure.
+- Data-driven and behavior-driven testing (BDD) with Gherkin feature files.
+- Automated generation of HTML execution reports and screenshot capture on failure.
+
 </details>
 
 ---
 
 ### [Hibernate Hotel Management System](https://github.com/hanbugra82/TechPro-Hibernate-Hotel-Management-System)
-An Object-Relational Mapping (ORM) showcase project managing hotel reservations, rooms, and guest accounts through complex JPA/Hibernate entity mappings.
+An Object-Relational Mapping (ORM) showcase project managing hotel reservations, rooms, and guest accounts through JPA/Hibernate entity mappings.
 
 * **Entity Mapping:** Configured One-to-One, One-to-Many, and Many-to-Many relationships with cascading operations.
 * **HQL Querying:** Custom queries for availability checks, room status, and occupancy tracking.
@@ -168,17 +171,18 @@ An Object-Relational Mapping (ORM) showcase project managing hotel reservations,
 <summary>Details of the project</summary>
 <br>
 
-- Optimized lazy/eager fetching strategies to prevent N+1 query problems.
-- Automated schema generation and mapping validation using Hibernate XML/Annotation configurations.
+- Configured lazy/eager fetching strategies to manage entity loading and improve database access efficiency.
+- Implemented schema generation and entity mapping validation using Hibernate annotations and configuration.
+
 </details>
 
 ---
 
 ### [JDBC Student Management System](https://github.com/hanbugra82/TechPro-JDBC-Student-Management-System)
-A console-based architectural management system handling student academic records through direct low-level database operations.
+A console-based database management system handling student academic records through direct JDBC operations.
 
-* **Data Access Layer:** Direct SQL execution and transaction handling using raw JDBC drivers.
-* **Validation Layer:** Enforces input sanitation and uniqueness constraints before persistence.
+* **Data Access Layer:** Direct SQL execution and transaction handling using JDBC.
+* **Validation Layer:** Applies input validation and uniqueness constraints before persistence.
 
 • Java • JDBC • PostgreSQL • SQL • Clean Architecture
 
@@ -186,8 +190,9 @@ A console-based architectural management system handling student academic record
 <summary>Details of the project</summary>
 <br>
 
-- Full CRUD lifecycle management for student profiles and course enrollments.
-- PreparedStatements to prevent SQL injection vulnerabilities and manage database connection pooling.
+- Implemented full CRUD lifecycle management for student profiles and course enrollments.
+- Used PreparedStatements for parameterized SQL queries and safer database operations.
+
 </details>
 
 ---
@@ -195,7 +200,7 @@ A console-based architectural management system handling student academic record
 ### [RPN Calculator](https://github.com/bugra-university/calculatorJAVAFX)
 A desktop application built as a Reverse Polish Notation (RPN) calculator implementing a postfix evaluation stack for complex mathematical workflows.
 
-* **Stack Engine:** Evaluates postfix expressions using strict stack-based operand management.
+* **Stack Engine:** Evaluates postfix expressions using stack-based operand management.
 * **GUI Module:** Provides an interactive JavaFX user interface mimicking classic scientific calculators.
 
 • Java • JavaFX • Object-Oriented Programming (OOP) • Data Structures (Stack) • Maven
@@ -205,5 +210,6 @@ A desktop application built as a Reverse Polish Notation (RPN) calculator implem
 <br>
 
 - Implemented syntax error handling for division by zero and unbalanced operands.
-- Clean separation of UI views (FXML/CSS) and underlying algebraic calculation services.
+- Separated UI views (FXML/CSS) from the underlying calculation services.
+
 </details>
